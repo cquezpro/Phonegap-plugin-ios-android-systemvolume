@@ -3,7 +3,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
    id="com.jiliac.systemvolume"
    version="0.1.0">
-    <name>System Volume</name>
+    <name>System Volume App</name>
     <description>PhoneGap System Volume Plugin</description>
     <license>MIT</license>
     <keywords>phonegap,volume</keywords>
