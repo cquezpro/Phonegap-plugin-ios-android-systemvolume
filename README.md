@@ -2,7 +2,7 @@
 
 Plugin to set volume of the music stream.
 
-## Supported Platforms
+## Supported Platform
 
 Android
 
